@@ -5,13 +5,3 @@
 // 8 -> 2, 4, 6, 8
 Console.WriteLine("введите целое число");
 int numN = int.Parse(Console.ReadLine());
-int numN =>1;
-int numN <= numN;
-if (numN >0)
-{
-    while (count <= numN)
-    {
-        Console.WriteLine(count +1);
-        count = count+1;
-    }
-}
