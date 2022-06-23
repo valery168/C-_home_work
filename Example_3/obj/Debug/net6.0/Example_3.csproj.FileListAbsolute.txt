@@ -1,0 +1,15 @@
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\bin\Debug\net6.0\Example_3.exe
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\bin\Debug\net6.0\Example_3.deps.json
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\bin\Debug\net6.0\Example_3.runtimeconfig.json
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\bin\Debug\net6.0\Example_3.dll
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\bin\Debug\net6.0\Example_3.pdb
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\Example_3.csproj.AssemblyReference.cache
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\Example_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\Example_3.AssemblyInfoInputs.cache
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\Example_3.AssemblyInfo.cs
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\Example_3.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\Example_3.dll
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\refint\Example_3.dll
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\Example_3.pdb
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\Example_3.genruntimeconfig.cache
+C:\GeekBrains\C#_Education\home_worke_c#\Example_3\obj\Debug\net6.0\ref\Example_3.dll
